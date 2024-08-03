@@ -26,8 +26,8 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/th-shristi/gender-ethnicity-model.git
-   cd gender-ethnicity-model
+   git clone https://github.com/th-shristi/GenderEthnicityModel.git
+   cd GenderEthnicityModel
    ```
 
 2. Install the required libraries:
